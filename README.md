@@ -2,10 +2,24 @@
 <h3 align="center">A passionate MERN Full Stack Web Developer | Python developer | Diving into DSA </h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=kalpana-chavhan&label=Profile%20views&color=0e75b6&style=flat" alt="kalpana-chavhan" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=750&lines=MERN+%26+Next.js+Full+Stack+Developer;AI+%2F+ML+Explorer+%7C+Python+Developer;DSA+Learner+%7C+Open+Source+Contributor;Always+Learning%2C+Always+Building" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kalpana-chavhan&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
+
+## 🌟 About Me
+- 🎓 BCA student passionate about **Web Development & AI**
+- 💻 Building **full-stack apps** with MERN & Next.js
+- 🤖 Exploring **Machine Learning & Python**
+- 🧠 Strengthening **DSA & System Design**
+- 🌱 Actively contributing to **Open Source**
+
+---
+
 
 ### 💌 How to reach me:
 📧 **kalpnachauhan347@gmail.com**
@@ -30,24 +44,101 @@
 
 ---
 
-### 🛠 Languages and Tools:
-<p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+## 🧩 Currently Learning & Exploring
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-App%20Router%20%26%20Server%20Actions-black?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/System%20Design-Basics-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-Advanced%20Patterns-orange?style=for-the-badge&logo=leetcode" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Optimization-green?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/Open%20Source-Best%20Practices-lightgrey?style=for-the-badge&logo=github" />
+</p>
+
+---
+
+## 🛠 Languages & Tools
+
+### 🌐 Frontend
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40"/>
+</p>
+
+### ⚙️ Backend & Databases
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+</p>
+
+### 🤖 AI / ML & Python
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
+</p>
+
+### 🧰 Tools & Others
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+</p>
+
+---
+## 🚀 Projects Connected to My Learning
+
+### 🎮 Multi-Game Web Platform
+**Tech:** React, JavaScript, CSS  
+**Linked Learning:** DSA, UI/UX, State Management  
+Includes:
+- Simon Says
+- Tic Tac Toe
+- Sudoku
+- 2048
+- Typing Speed Game
+
+---
+
+### ✅ Advanced To-Do List App
+**Tech:** MERN Stack  
+**Linked Learning:** CRUD, Authentication, Backend Logic  
+Features:
+- User auth
+- Filters & persistence
+- Clean UI
+
+---
+
+### 🔗 URL Shortener with Analytics
+**Tech:** Node.js, Express, MongoDB  
+**Linked Learning:** System Design, APIs  
+Features:
+- Custom short links
+- Click tracking
+- Analytics dashboard
+
+---
+
+### 🤖 ML Mini Projects
+**Tech:** Python, NumPy, Pandas, Scikit-learn  
+**Linked Learning:** ML Optimization  
+Includes:
+- Classification models
+- Prediction systems
+- Accuracy tuning
 
 ---
 
