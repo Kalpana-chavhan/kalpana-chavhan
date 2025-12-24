@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kalpana Chauhan</h1>
-<h3 align="center">A passionate MERN Full Stack Web Developer | Python developer | Diving into DSA </h3>
+<h1 align="center">Hi 👋, I'm Kalpana Chavhan</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=750&lines=MERN+%26+Next.js+Full+Stack+Developer;AI+%2F+ML+Explorer+%7C+Python+Developer;DSA+Learner+%7C+Open+Source+Contributor;Always+Learning%2C+Always+Building" />
@@ -11,7 +10,7 @@
 
 ---
 
-## 🌟 About Me
+## About Me
 - 🎓 BCA student passionate about **Web Development & AI**
 - 💻 Building **full-stack apps** with MERN & Next.js
 - 🤖 Exploring **Machine Learning & Python**
