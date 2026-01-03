@@ -5,46 +5,44 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=kalpana-chavhan&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=kalpana-chavhan&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## About Me
-- 🎓 BCA student passionate about **Web Development & AI**
-- 💻 Building **full-stack apps** with MERN & Next.js
-- 🤖 Exploring **Machine Learning & Python**
+## 👩‍💻 About Me
+- 🎓 BCA student passionate about **Web Development & Artificial Intelligence**
+- 💻 Building **full-stack applications** using MERN & Next.js
+- 🤖 Exploring **Machine Learning with Python**
 - 🧠 Strengthening **DSA & System Design**
-- 🌱 Actively contributing to **Open Source**
+- 🌱 Actively contributing to **Open Source projects**
 
 ---
 
-
-### 💌 How to reach me:
+### 💌 How to reach me
 📧 **kalpnachauhan347@gmail.com**
 
 ---
 
-### 🌐 Connect with me:
+### 🌐 Connect with me
 <p align="left">
-<a href="https://www.linkedin.com/in/kalpana-chauhan347" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://instagram.com/daaldhokali" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
-<a href="https://discordapp.com/users/1398366326833156198" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-</a>
-<a href="https://www.pinterest.com/Iblamekru" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="Pinterest" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/kalpana-chauhan347" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/daaldhokali" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+  <a href="https://discordapp.com/users/1398366326833156198" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.pinterest.com/Iblamekru" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" height="30" width="40" />
+  </a>
 </p>
 
 ---
 
 ## 🧩 Currently Learning & Exploring
-
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-App%20Router%20%26%20Server%20Actions-black?style=for-the-badge&logo=next.js" />
   <img src="https://img.shields.io/badge/System%20Design-Basics-blueviolet?style=for-the-badge" />
@@ -62,47 +60,48 @@
 
 ### 🌐 Frontend
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40"/>
 </p>
 
 ### ⚙️ Backend & Databases
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
 </p>
 
 ### 🤖 AI / ML & Python
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
 </p>
 
 ### 🧰 Tools & Others
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
 </p>
 
 ---
+
 ## 🚀 Projects Connected to My Learning
 
 ### 🎮 Multi-Game Web Platform
 **Tech:** React, JavaScript, CSS  
-**Linked Learning:** DSA, UI/UX, State Management  
-Includes:
+**Learning:** DSA, UI/UX, State Management  
+Games:
 - Simon Says
 - Tic Tac Toe
 - Sudoku
@@ -113,9 +112,9 @@ Includes:
 
 ### ✅ Advanced To-Do List App
 **Tech:** MERN Stack  
-**Linked Learning:** CRUD, Authentication, Backend Logic  
+**Learning:** CRUD, Authentication, Backend Logic  
 Features:
-- User auth
+- User authentication
 - Filters & persistence
 - Clean UI
 
@@ -123,7 +122,7 @@ Features:
 
 ### 🔗 URL Shortener with Analytics
 **Tech:** Node.js, Express, MongoDB  
-**Linked Learning:** System Design, APIs  
+**Learning:** APIs, System Design  
 Features:
 - Custom short links
 - Click tracking
@@ -133,18 +132,18 @@ Features:
 
 ### 🤖 ML Mini Projects
 **Tech:** Python, NumPy, Pandas, Scikit-learn  
-**Linked Learning:** ML Optimization  
-Includes:
-- Classification models
-- Prediction systems
-- Accuracy tuning
+**Learning:** ML optimization & accuracy tuning
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kalpana-chavhan&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalpana-chavhan&theme=radical" alt="GitHub Streak" />
-</p>
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=kalpana-chavhan&theme=radical&show_icons=true&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=kalpana-chavhan&theme=radical&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kalpana-chavhan&theme=radical&layout=compact&count_private=true)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kalpana-chavhan&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)
