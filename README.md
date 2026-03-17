@@ -20,7 +20,7 @@
 ---
 
 ### 💌 How to reach me
-📧 **kalpnachauhan347@gmail.com**
+📧 **kalpanachavhan347@gmail.com**
 
 ---
 
